@@ -7,7 +7,7 @@ export function SocialLinks() {
   return (
     <div className="flex justify-center space-x-8">
       <Link
-        href="https://t.me"
+        href="https://t.me/povsemmestam"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-600 hover:text-gray-900 transition-colors flex items-center gap-2"
@@ -16,7 +16,7 @@ export function SocialLinks() {
         <span className="sr-only">telegram</span>
       </Link>
       <Link
-        href="https://instagram.com"
+        href="https://instagram.com/via_na_prazdnik"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-600 hover:text-gray-900 transition-colors flex items-center gap-2"
